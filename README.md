@@ -63,7 +63,7 @@ Este projeto teve a finalidade de me aprofundar nos conceitos de HTML e CSS.
 
 ![App Screenshot](https://imgur.com/5HMy0Pr.png)
 
-Este desafio teve finalidade de colocar em prática os conhecimentos adquiridos ao longo trejato do Stage 2 do curso,
+Este desafio teve finalidade de colocar em prática os conhecimentos adquiridos ao longo do trejeto do Nível 2 do curso,
 no qual tive o prazer e satisfação de concluir.
 
 - HTML
