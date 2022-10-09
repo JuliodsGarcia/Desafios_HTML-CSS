@@ -21,7 +21,7 @@ Este projeto visa o aprendizado e conceitos de HTML e CSS.
 - Cores 
 - Flexbox
 
-<a href="https://todo-app-xi-six-33.vercel.app" target="todo-app-xi-six-33.vercel.app">
+<a href="#" target="todo-app-xi-six-33.vercel.app">
 <img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
 </a>
 
@@ -44,4 +44,15 @@ Este projeto teve a finalidade de me aprofundar nos conceitos de HTML e CSS.
 - Refatoração
 - Imagens
 - Gradiente 
+<a href="#" target="todo-app-xi-six-33.vercel.app">
+<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
+</a>
+
+<a href="https://github.com/JuliodsGarcia/Projeto_02" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
+</a>
+
+<a href="https://www.figma.com/file/fIMzmhGKprPlFCs14vwtlk/Explorer---Projeto-02-(Copy)?node-id=0%3A1" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
+</a>
 
