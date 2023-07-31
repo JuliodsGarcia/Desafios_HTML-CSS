@@ -85,7 +85,7 @@ no qual tive o prazer e satisfação de concluir.
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/QS5U0d4)
+![App Screenshot](https://imgur.com/QS5U0d4.png)
 
 Este desafio teve finalidade de colocar em prática os conhecimentos adquiridos ao longo do trejeto do Nível 2 do curso,
 no qual tive o prazer e satisfação de concluir.
@@ -101,7 +101,7 @@ no qual tive o prazer e satisfação de concluir.
 <img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
 </a>
 
-<a href="https://www.figma.com/file/V6HcA6AhsKmLdYpYAZ1J3f/Explorer-(Copy)?node-id=16%3A106" target="_blank">
+<a href="https://www.figma.com/file/SDrA72qjPudx21EWPWjc6J/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=1jdtKuqj7MBHk89K-0" target="_blank">
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
 
