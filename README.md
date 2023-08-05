@@ -121,20 +121,12 @@ no qual tive o prazer e satisfação de concluir.
 
 Este desafio teve finalidade de colocar em prática os conceitos de responsividade, Isso faz com que o nosso site se adapte em diversas resoluções de tela.
 
-- MidiaQueries
+- MediaQueries
 
-<a href="https://codepen.io/juliodsgarcia/pen/YzRgdOv" target="https://codepen.io/juliodsgarcia/pen/zYMbMpV">
+<a href="https://codepen.io/juliodsgarcia/pen/YzRgdOv" target="_blank">
 <img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
 </a>
 
 <a href="https://www.figma.com/file/hBk635vPJ6NNwvyvtHBqYv/Explorer-Stage-03-Projeto-02-(Copy)?type=design&node-id=203-412&mode=design&t=yJ7fRPpRVBfQWXLX-0">
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
-
-
-
-
-
-
-
-
