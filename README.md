@@ -128,7 +128,7 @@ no qual tive o prazer e satisfação de concluir.
 <img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
 </a>
 
-<a href="[https://www.figma.com/file/SDrA72qjPudx21EWPWjc6J/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=1jdtKuqj7MBHk89K-0](https://www.figma.com/file/09UCY0uKs91JCNkisiKOw0/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A35&mode=dev)" target="_blank">
+<a href="https://www.figma.com/file/09UCY0uKs91JCNkisiKOw0/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A35&mode=dev" target="https://www.figma.com/file/09UCY0uKs91JCNkisiKOw0/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A35&mode=dev">
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
 
