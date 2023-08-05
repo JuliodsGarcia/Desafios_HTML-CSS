@@ -93,12 +93,8 @@ no qual tive o prazer e satisfação de concluir.
 - HTML
 - CSS
 - Flexbox 
-<a href="#" target="todo-app-xi-six-33.vercel.app">
+<a href="https://codepen.io/juliodsgarcia/pen/LYXaXoR" target="_blank">
 <img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
-</a>
-
-<a href="https://github.com/JuliodsGarcia/Desafios_HTML-CSS/tree/main/Desafio_Stage_2" target="_blank">
-<img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
 </a>
 
 <a href="https://www.figma.com/file/SDrA72qjPudx21EWPWjc6J/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=1jdtKuqj7MBHk89K-0" target="_blank">
@@ -122,10 +118,6 @@ no qual tive o prazer e satisfação de concluir.
 
 <a href="https://codepen.io/juliodsgarcia/pen/zYMbMpV" target="https://codepen.io/juliodsgarcia/pen/zYMbMpV">
 <img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
-</a>
-
-<a href="https://github.com/JuliodsGarcia/Desafios_HTML-CSS/tree/main/Desafio_Stage_2" target="_blank">
-<img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
 </a>
 
 <a href="https://www.figma.com/file/09UCY0uKs91JCNkisiKOw0/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A35&mode=dev" target="https://www.figma.com/file/09UCY0uKs91JCNkisiKOw0/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A35&mode=dev">
