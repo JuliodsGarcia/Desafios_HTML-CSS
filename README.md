@@ -105,6 +105,33 @@ no qual tive o prazer e satisfação de concluir.
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
 
+# Desafio do Stage 3!
+
+## Screenshots
+
+![App Screenshot](https://imgur.com/QfENuyD.png)
+
+Este desafio teve finalidade de colocar em prática os conhecimentos adquiridos ao longo do trejeto do Nível 3 do curso,
+no qual tive o prazer e satisfação de concluir.
+
+- HTML
+- CSS
+- Flexbox
+- Formulários
+- Tags Semânticas para formulário.
+- 
+<a href="#" target="todo-app-xi-six-33.vercel.app">
+<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
+</a>
+
+<a href="https://github.com/JuliodsGarcia/Desafios_HTML-CSS/tree/main/Desafio_Stage_2" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
+</a>
+
+<a href="https://www.figma.com/file/SDrA72qjPudx21EWPWjc6J/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=1jdtKuqj7MBHk89K-0" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
+</a>
+
 
 
 
