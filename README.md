@@ -148,3 +148,21 @@ Este desafio teve finalidade de colocar em prática os conceitos de responsivida
 <a href="https://www.figma.com/file/X90nkXznhlfvM7aCSKtQFD/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?node-id=0%3A1&mode=dev">
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
+
+# Desafio do Stage 3/GRID Layout!
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/O4tnLxb.png)
+
+Este desafio teve finalidade de colocar em prática os conceitos de GRID, Isso faz com que o nosso site tenha um ótimo alinhamento do conteúdo.
+
+- GRID Layout
+
+<a href="https://codepen.io/juliodsgarcia/pen/wvQZvjp" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
+</a>
+
+<a href="https://www.figma.com/file/JeuVt1ziwIOd00WiEdkb3l/Galaxies-%E2%80%A2-Projeto-Explorer-(Copy)?node-id=0%3A1&mode=dev">
+<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
+</a>
