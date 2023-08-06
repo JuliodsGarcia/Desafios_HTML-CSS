@@ -153,7 +153,7 @@ Este desafio teve finalidade de colocar em prática os conceitos de responsivida
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/O4tnLxb.png)
+![App Screenshot](https://imgur.com/1NEmdS1.png)
 
 Este desafio teve finalidade de colocar em prática os conceitos de GRID, Isso faz com que o nosso site tenha um ótimo alinhamento do conteúdo.
 
