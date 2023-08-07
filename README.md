@@ -166,3 +166,24 @@ Este desafio teve finalidade de colocar em prática os conceitos de GRID, Isso f
 <a href="https://www.figma.com/file/JeuVt1ziwIOd00WiEdkb3l/Galaxies-%E2%80%A2-Projeto-Explorer-(Copy)?node-id=0%3A1&mode=dev">
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
+
+# Desafio do Stage 3/GRID Layout!
+
+## Screenshots
+
+![App Screenshot](https://imgur.com/52vEj0o.png)
+
+Este desafio teve finalidade de colocar em prática os conceitos de GRID, Isso faz com que o nosso site tenha um ótimo alinhamento do conteúdo.
+
+- GRID Layout
+- Animacoes com CSS
+- Filters CSS
+
+<a href="https://codepen.io/juliodsgarcia/pen/ZEmZGJJ" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
+</a>
+
+<a href="https://www.figma.com/file/jhE1bTY7431oAubZ0c8eJt/Fotoblog-%E2%80%A2-Projeto-Explorer-(Community)?mode=dev">
+<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
+</a>
+
