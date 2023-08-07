@@ -187,3 +187,26 @@ Este desafio teve finalidade de colocar em prática os conceitos de GRID, Isso f
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
 
+# Desafio Final do Stage 3!
+
+## Screenshots
+
+![App Screenshot](https://imgur.com/TwtfEwO.png)
+
+Este desafio teve finalidade de colocar em prática os conceitos aprendido no stage 3, como html e css.
+
+- FlexBox
+- GRID Layout
+- Animacoes com CSS
+- Filters CSS
+- posicionamento
+- tratamento de imagens
+
+<a href="https://codepen.io/juliodsgarcia/pen/PoxgZVV" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
+</a>
+
+<a href="https://www.figma.com/file/Im7hYHDwUe7mBkDYjLzqKT/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?mode=dev">
+<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
+</a>
+
